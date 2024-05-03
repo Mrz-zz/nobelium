@@ -27,8 +27,8 @@ exports.FONTS_SANS = [
   'sans-serif'
 ]
 exports.FONTS_SERIF = [
-  '"Source Serif"',
   '"Intel One Mono"',
+  '"Source Serif"',
   'ui-serif',
   'Georgia',
   '"Nimbus Roman No9 L"',
