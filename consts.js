@@ -1,5 +1,5 @@
 exports.FONTS_SANS = [
-  '"Intel One Mono"'
+  '"Intel One Mono"',
   '"IBM Plex Sans"',
   'ui-sans-serif',
   'system-ui',
