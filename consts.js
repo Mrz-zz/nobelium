@@ -1,6 +1,6 @@
 exports.FONTS_SANS = [
   '"Intel One Mono"',
-  // '"IBM Plex Sans"',
+  '"IBM Plex Sans"',
   'ui-sans-serif',
   'system-ui',
   '-apple-system',
@@ -28,6 +28,7 @@ exports.FONTS_SANS = [
 ]
 exports.FONTS_SERIF = [
   '"Source Serif"',
+  '"Intel One Mono"',
   'ui-serif',
   'Georgia',
   '"Nimbus Roman No9 L"',

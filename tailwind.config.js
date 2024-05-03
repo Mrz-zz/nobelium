@@ -19,6 +19,7 @@ export default {
         sans: FONTS_SANS,
         serif: FONTS_SERIF,
         noEmoji: [
+          '"Intel One Mono"',
           '"IBM Plex Sans"',
           'ui-sans-serif',
           'system-ui',
