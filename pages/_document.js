@@ -39,6 +39,13 @@ class MyDocument extends Document {
               )
             : (
             <>
+            <link
+                rel="preload"
+                href="/fonts/IntelOneMono.woff2"
+                as="font"
+                type="font/woff2"
+                crossOrigin="anonymous"
+              />
               <link
                 rel="preload"
                 href="/fonts/IBMPlexSansVar-Roman.woff2"
